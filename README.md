@@ -1,5 +1,7 @@
 # surfs_up
 
+![surf.jpg](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/5f/2c/b6.jpg)
+
 ## Overview of the statistical analysis:
 
 The purpose of the analysis is to analyze weather data to determine if it would be worth it to open a surf and shake shop on the island of O'ahu. I used SQLite to conduct a query for the temperatures in the months of June and December. 
